@@ -1,9 +1,9 @@
 /**
  * 
  */
-package factoryPatterns.impl;
+package factoryPatterns.shape.impl;
 
-import factoryPatterns.Shape;
+import factoryPatterns.shape.Shape;
 
 /**
  * @author MJCoder

@@ -1,9 +1,9 @@
 /**
  * 
  */
-package factoryPatterns.impl;
+package abstractFactoryPattern.shape.impl;
 
-import factoryPatterns.Shape;
+import abstractFactoryPattern.shape.Shape;
 
 /**
  * @author MJCoder
@@ -15,13 +15,14 @@ import factoryPatterns.Shape;
  *         类在重写方法时要保持一致的方法名，并且应该保持相同或者相兼容的返回值类型。
  * 
  *         如果实现接口的类是抽象类，那么就没必要实现该接口的方法。
+ *
  */
-public class Circle implements Shape {
+public class Square implements Shape {
 
 	/**
 	 * 
 	 */
-	public Circle() {
+	public Square() {
 		// TODO Auto-generated constructor stub
 	}
 
@@ -33,6 +34,7 @@ public class Circle implements Shape {
 	@Override
 	public void draw() {
 		// TODO Auto-generated method stub
-		System.out.println("Inside Circle::draw() method.");
+		System.out.println("Inside Square::draw() method.");
 	}
+
 }

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package factoryPatterns;
+package factoryPatterns.shape;
 
 /**
  * @author MJCoder

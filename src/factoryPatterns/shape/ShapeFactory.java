@@ -1,8 +1,8 @@
-package factoryPatterns;
+package factoryPatterns.shape;
 
-import factoryPatterns.impl.Circle;
-import factoryPatterns.impl.Rectangle;
-import factoryPatterns.impl.Square;
+import factoryPatterns.shape.impl.Circle;
+import factoryPatterns.shape.impl.Rectangle;
+import factoryPatterns.shape.impl.Square;
 
 /**
  * @author MJCoder

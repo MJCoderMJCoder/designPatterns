@@ -3,9 +3,11 @@
  */
 package factoryPatterns;
 
-import factoryPatterns.impl.Circle;
-import factoryPatterns.impl.Rectangle;
-import factoryPatterns.impl.Square;
+import factoryPatterns.shape.Shape;
+import factoryPatterns.shape.ShapeFactory;
+import factoryPatterns.shape.impl.Circle;
+import factoryPatterns.shape.impl.Rectangle;
+import factoryPatterns.shape.impl.Square;
 
 /**
  * @author MJCoder
