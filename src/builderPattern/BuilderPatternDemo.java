@@ -3,8 +3,6 @@
  */
 package builderPattern;
 
-import abstractFactoryPattern.FactoryProducer;
-
 /**
  * @author MJCoder
  *
