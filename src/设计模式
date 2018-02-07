@@ -63,7 +63,8 @@
 	外观模式（Facade Pattern）
 	享元模式（Flyweight Pattern）
 	代理模式（Proxy Pattern）
-3 行为型模式：特别关注对象之间的通信。 责任链模式（Chain of Responsibility Pattern）
+3 行为型模式：特别关注对象之间的通信。 
+	责任链模式（Chain of Responsibility Pattern）
 	命令模式（Command Pattern）
 	解释器模式（Interpreter Pattern）
 	迭代器模式（Iterator Pattern）
