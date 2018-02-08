@@ -6,6 +6,8 @@ package commandPattern.command;
 /**
  * 创建一个命令接口。
  * 
+ * 通常命令模式的接口中只有一个方法。
+ * 
  * @author MJCoder
  *
  */
