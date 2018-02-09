@@ -13,6 +13,8 @@ import commandPattern.command.Order;
  * 
  * Broker 对象使用命令模式，基于命令的类型确定哪个对象执行哪个命令。
  * 
+ * 可以对行为进行记录、撤销或重做、事务等处理
+ * 
  * @author MJCoder
  *
  */
